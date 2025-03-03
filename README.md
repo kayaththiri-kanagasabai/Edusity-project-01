@@ -7,7 +7,10 @@ This is my first internship project. I am recreating a website based on a YouTub
 - Responsive design  
 - Navigation bar(2025-03-02)  
 - Home page (2025-03-03)
-- Program page (in progress) 
+- Program page (2025-03-03)
+- About us page (2025-03-03)
+- Campus page (2025-03-03)
+- Testimonials page (in progress) 
 
 ## Technologies Used  
 - HTML  
