@@ -10,7 +10,8 @@ This is my first internship project. I am recreating a website based on a YouTub
 - Program page (2025-03-03)
 - About us page (2025-03-03)
 - Campus page (2025-03-03)
-- Testimonials page (in progress) 
+- Testimonials page (2025-03-03)
+- Contact us pade (in progress) 
 
 ## Technologies Used  
 - HTML  
